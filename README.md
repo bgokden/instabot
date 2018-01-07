@@ -10,9 +10,9 @@ To build docker image run:
 ./build.sh
 ```
 
-Edit env.example.sh
+Edit env.example.sh with your data
 
-To Run with you env.example.sh configuration:
+To Run with your env.example.sh configuration:
 ```
 ./run.sh example
 ```
